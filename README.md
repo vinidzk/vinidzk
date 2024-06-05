@@ -1,9 +1,4 @@
 ## olá 👋
-
-<!--
-**vinidzk** 
-
-
 - 🔭 I'm currently working on Alura
 - 🌱 I am currently learning English
 - 💬 Ask me about everything
